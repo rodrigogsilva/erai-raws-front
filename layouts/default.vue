@@ -53,6 +53,7 @@ import AppHeader from '@/components/ui/AppHeader.vue';
 export default Vue.extend({
   components: {
     SideBarRight,
+    Footer,
     SidebarLeft,
     AppHeader,
   },

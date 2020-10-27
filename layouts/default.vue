@@ -78,7 +78,7 @@ export default Vue.extend({
   },
   head() {
     return {
-      titleTemplate: '%s - Erai Raws',
+      titleTemplate: '%s | Erai Raws',
       meta: [
         {
           hid: 'description',
